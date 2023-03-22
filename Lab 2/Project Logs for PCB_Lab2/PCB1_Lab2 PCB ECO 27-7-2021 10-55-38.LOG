@@ -1,0 +1,21 @@
+Removed Pin From Net: NetName=NetJ14_1 Pin=MCU1-20
+Removed Pin From Net: NetName=NetJ14_3 Pin=MCU1-22
+Removed Pin From Net: NetName=NetJ13_1 Pin=MCU1-23
+Removed Pin From Net: NetName=NetJ13_3 Pin=MCU1-25
+Removed Pin From Net: NetName=NetJ12_1 Pin=MCU1-26
+Removed Pin From Net: NetName=NetJ12_3 Pin=MCU1-28
+Removed Pin From Net: NetName=NetJ11_1 Pin=MCU1-29
+Removed Pin From Net: NetName=NetJ11_3 Pin=MCU1-31
+Removed Pin From Net: NetName=NetJ14_3 Pin=R1-1
+Removed Pin From Net: NetName=NetJ13_3 Pin=R2-1
+Added Pin To Net: NetName=NetJ14_3 Pin=MCU1-20
+Added Pin To Net: NetName=NetJ14_1 Pin=MCU1-22
+Added Pin To Net: NetName=NetJ13_3 Pin=MCU1-23
+Added Pin To Net: NetName=NetJ13_1 Pin=MCU1-25
+Added Pin To Net: NetName=NetJ12_3 Pin=MCU1-26
+Added Pin To Net: NetName=NetJ12_1 Pin=MCU1-28
+Added Pin To Net: NetName=NetJ11_3 Pin=MCU1-29
+Added Pin To Net: NetName=NetJ11_1 Pin=MCU1-31
+Added Pin To Net: NetName=NetJ14_1 Pin=R1-1
+Added Pin To Net: NetName=NetJ13_1 Pin=R2-1
+Added Room: Name=Sch_Lab_2

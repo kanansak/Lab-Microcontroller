@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=NetJ1_2 Pin=MCU1-18
+Removed Pin From Net: NetName=NetJ1_1 Pin=MCU1-19
+Added Pin To Net: NetName=NetJ1_1 Pin=MCU1-18
+Added Pin To Net: NetName=NetJ1_2 Pin=MCU1-19
+Added Room: Name=Sch_Lab_2
